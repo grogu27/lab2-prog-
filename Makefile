@@ -1,2 +1,2 @@
-prog1	:	main.c intVector.c
-			gcc -Wall -Werror main.c intVector.c -o prog1
+prog1 :		main.c IntVector.c
+				gcc -Wall -Werror main.c IntVector.c -o prog1
